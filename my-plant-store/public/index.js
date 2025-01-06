@@ -4,6 +4,7 @@ import About from '../components/About';
 import StoreLinks from '../components/StoreLinks';
 import Contact from '../components/Contact';
 import '../styles/global.css';
+import Custom404 from './404'; // Path inside /public
 
 export default function Home() {
   return (
