@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import '../styles/global.css';
+import './styles/global.css'; // Adjust based on your structure
 
 export default function Custom404() {
   return (
